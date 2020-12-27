@@ -17,3 +17,12 @@ All notable changes to this project will be documented in this file.
 
 ### Removed
  - Removed test-page (UNPUBLISHED)
+
+
+## Demo Home Page - Parallax
+
+### Added
+ - Parallax scrolling image at the bottom of the page (uses seperate image to the main homepage image)
+
+### Removed
+ - Old static image that stretched the bottom of the page
