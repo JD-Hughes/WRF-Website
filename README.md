@@ -19,7 +19,7 @@ All notable changes to this project will be documented in this file.
  - Removed test-page (UNPUBLISHED)
 
 
-## Demo Home Page - Parallax
+## Demo Home Page | Parallax - 2020-12-27
 
 ### Added
  - Parallax scrolling image at the bottom of the page (uses seperate image to the main homepage image)
